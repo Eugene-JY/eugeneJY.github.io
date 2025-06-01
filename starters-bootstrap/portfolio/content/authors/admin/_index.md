@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Eugene JY (金由)
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include travelling, reading, singing, learning languages, solving problems.
 
 #interests:
 #- Artificial Intelligence
@@ -66,8 +66,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+金由是一个有五年前端工作经验的工程师，喜欢学习语言，无论是技术方面的（从Javascript到Groovy）， 还是纯语言类（英语，西班牙语，德语，日语等），都在持续热情的学习中。这个博客空间将会展示她的旅行日记和工作学习记录。有兴趣的朋友可以关注，希望她的文章对你有帮助。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Meet Jin You (Eugene), an engineer with five years of frontend experience. She has a strong passion for learning languages—whether it's diving into new technologies like JavaScript and Groovy, or exploring spoken languages such as English, Spanish, German, and Japanese. This blog is where she'll share her travel adventures and insights from her work and studies. Feel free to follow along; she hopes her posts will be useful to you!
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
